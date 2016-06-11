@@ -1,11 +1,11 @@
 //{{NO_DEPENDENCIES}}
 // Microsoft Visual C++ generated include file.
-// Used by DC_ARP_01.rc
+// Used by StaticIPRouter.rc
 //
 #define IDM_ABOUTBOX                    0x0010
 #define IDD_ABOUTBOX                    100
 #define IDS_ABOUTBOX                    101
-#define IDD_DC_ARP_01_DIALOG            102
+#define IDD_StaticIPRouter_DIALOG       102
 #define IDR_MAINFRAME                   128
 #define IDD_PROXY_                      129
 #define IDD_PROXY_Dlg                   129
